@@ -188,7 +188,7 @@ const pages = {
     <section>
       <h2>Support Our Mission</h2>
       <p>Your donations help us continue encouraging athletes and organizing community events.</p>
-      <div class="donate-options
+      <div class="donate-options">
           <div class="donate-card">
           <h3>Donate via PayPal</h3>
           <p><a href="#">paypal.me/yourcharity</a></p>
