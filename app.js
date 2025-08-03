@@ -11,7 +11,7 @@ const pages = {
           <img src="SEM-images/polarPlunge2025.jpg" alt="Polar Plunge"> 
         </div>
         <div class="carousel-item" onclick="navigate('events')">
-          <img src="SEM-images/stockPebbles.png" alt="Beach Yoga">
+          <img src="SEM-images/rockStock.png" alt="Beach Yoga">
         </div>
         <div class="carousel-item" onclick="navigate('events')">
           <img src="SEM-images/coedSoccerTeam.jpg" alt="coed Soccer Tournament">
@@ -30,11 +30,11 @@ const pages = {
       <h2>Smile Every Mile Athletes</h2>
       <div class="athletes-grid">
         <div class="athlete-card">
-          <img src="SEM-images/TaraSoccerPic.jpg" alt="Tara McCleary" />
+          <img src="SEM-images/TaraSoccer.jpg" alt="Tara McCleary" />
           <p>Tara McCleary</p>
         </div>
         <div class="athlete-card">
-          <img src="SEM-images/MichelleHeadshot.jpeg" alt="Michelle Cannon" />
+          <img src="SEM-images/headshot.jpeg" alt="Michelle Cannon" />
           <p>Michelle Cannon</p>
         </div>
         <div class="athlete-card">
@@ -42,7 +42,7 @@ const pages = {
           <p>Derek McCleary</p>
         </div>
         <div class="athlete-card">
-          <img src="SEM-images/michellePic.jpeg" alt="Megan Cormican" />
+          <img src="SEM-images/meganC.jpeg" alt="Megan Cormican" />
           <p>Megan Cormican</p>
         </div>
       </div>
@@ -61,7 +61,7 @@ const pages = {
       </div>
       
       <div class="event-card">
-          <img src="SEM-images/stockPebbles.png" alt="Beach Yoga" />
+          <img src="SEM-images/rockStock.png" alt="Beach Yoga" />
           <h3>Beach Yoga</h3>
           <p class="date">Date: 2025-09-10</p>
           <p class="description">Experience the thrill of free yoga on the beach</p>
@@ -80,14 +80,14 @@ const pages = {
     <h2>Past Events</h2>
     <div class="event-grid">
        <div class="event-card">
-          <img src="SEM-images/MarathonMania.png" alt="Marathon Mania" />
+          <img src="SEM-images/MarathonPic.png" alt="Marathon Mania" />
           <h3>Marathon Mania</h3>
           <p class="date">Date: 2025-08-01</p>
           <p class="description">Join us to support our group of Marathon runners this year!</p>
       </div>
       
       <div class="event-card">
-          <img src="SEM-images/stockPebbles.png" alt="Beach Yoga" />
+          <img src="SEM-images/rockStock.png" alt="Beach Yoga" />
           <h3>Beach Yoga</h3>
           <p class="date">Date: 2025-09-10</p>
           <p class="description">Experience the thrill of free yoga on the beach</p>
